@@ -14,9 +14,9 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import os
 import re
-import nltk
-import numpy as np
-from nltk.corpus import stopwords
+#import nltk
+#import numpy as np
+#from nltk.corpus import stopwords
 
 #import spacy
 #from spacy import displacy
